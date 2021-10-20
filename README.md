@@ -1,16 +1,18 @@
 # flutter_firstdemo
 
-My first flutter project 
+Программа по нажатию кнопки меняет отображаемую картинку на экране 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Этот проект написан на  Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+В проекте использованы иконки с сайта (https://media.istockphoto.com):
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+а именно:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://cdn.icon-icons.com/icons2/630/PNG/512/diving-googles_icon-icons.com_57925.png
+
+https://media.istockphoto.com/vectors/snorkel-googles-diving-isolated-icon-vector-id867961994?s=612x612
+
+
+Для запуска нужно просто установить приложение на телефон и запустить!
